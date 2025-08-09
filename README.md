@@ -1,6 +1,6 @@
 # HRM Zero for Snake
 
-I noticed HRM is expensive if T is high so I modified it to be cheap. It still seems to work on Snake and also alleviates the issue of eventual collapse.
+I noticed HRM is expensive if T is high so I modified it to be cheap. It still seems to work on Snake and also alleviates the issue of eventual collapse (since T is high).
 
 ![hrm_modified](https://github.com/user-attachments/assets/cf951c76-ebe6-447c-b571-ef405cab994a)
 
