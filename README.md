@@ -2,7 +2,7 @@
 
 I noticed HRM is expensive if T is high so I modified it to be cheap. It still seems to work on Snake and also alleviates the issue of eventual collapse (since T is high).
 
-![hrm_modified](https://github.com/user-attachments/assets/cf951c76-ebe6-447c-b571-ef405cab994a)
+![hrm_modified](https://github.com/user-attachments/assets/3349b056-f1fa-4b2c-9568-532b5f5eb7a4)
 
 ```py
 class HRM(nn.Module):
